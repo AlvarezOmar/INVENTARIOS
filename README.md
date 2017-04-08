@@ -1,0 +1,2 @@
+# INVENTARIOS
+Realizacion de inventario
